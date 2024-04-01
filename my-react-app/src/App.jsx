@@ -11,12 +11,13 @@ function App() {
       {/* <Header />
       <Footer />
       <Food/> */}
+      {/* <Card/>
       <Card/>
       <Card/>
       <Card/>
       <Card/>
-      <Card/>
-      <Card/>
+      <Card/> */}
+      
     </>
   );
 
