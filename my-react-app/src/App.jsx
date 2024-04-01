@@ -12,6 +12,11 @@ function App() {
       <Footer />
       <Food/> */}
       <Card/>
+      <Card/>
+      <Card/>
+      <Card/>
+      <Card/>
+      <Card/>
     </>
   );
 
